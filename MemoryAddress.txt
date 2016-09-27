@@ -1,1 +1,0 @@
-InventoryAddress = 0x011188B0, 0x60
