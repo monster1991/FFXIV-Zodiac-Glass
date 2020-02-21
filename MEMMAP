@@ -2,7 +2,7 @@
 <FFXIVMemoryMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ItemSetPointer>
     <BaseAddressOffset>
-      <int>28635096‬</int>
+      <int>28631000‬</int>
       <int>20653728</int>
     </BaseAddressOffset>
     <Offsets>
